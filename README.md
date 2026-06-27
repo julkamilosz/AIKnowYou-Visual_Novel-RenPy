@@ -10,6 +10,12 @@ Krótka gra typu Visual Novel stworzona w ramach projektu akademickiego (Informa
 * **Język:** Python / Język skryptowy Ren'Py
 * **Gatunek:** Visual Novel / Thriller / Tekstowa gra przygodowa
 
+## Zakres i osiągnięcia techniczne:
+* **Projektowanie nieliniowości (Game Design):** Zaprojektowanie i pełne zaimplementowanie nieliniowej struktury scenariusza z wykorzystaniem conditional branching (wyborów warunkowych i flag logicznych), prowadzącego do 2 alternatywnych zakończeń (Good/Bad Ending). 
+* **Mechanika i Zarządzanie Stanem (Gameplay Programming):** Implementacja logiki pobierania i parsowania zmiennych wejściowych od użytkownika (dynamiczne wprowadzanie imienia gracza) w celu personalizacji dialogów i zwiększenia immersji. 
+* **Audio-Visual Scripting:** Oprogramowanie dynamicznej warstwy sensorycznej – integracja assetów graficznych (tła, sprite'y), efektów przejść ekranowych (Fade/Flash) oraz dynamicznej zmiany ścieżki dźwiękowej i efektów SFX w zależności od poziomu napięcia w fabule. 
+* **Dystrybucja i Logistyka:** Samodzielne przygotowanie optymalizacji plików gry, kompilacja oraz wdrożenie projektu na platformę dystrybucyjną Itch.io.
+
 ## 📈 Główne Funkcje i Logika Gry
 * **Nieliniowa Fabuła:** System rozgałęzień (Conditional Branching) oparty na wyborach gracza, prowadzący do 2 różnych zakończeń (Good Ending / Bad Ending).
 * **Zarządzanie Stanem (State Management):** Dynamiczne pobieranie i parsowanie imienia gracza w celu personalizacji dialogów i budowania immersji.
